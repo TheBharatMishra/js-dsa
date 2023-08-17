@@ -22,3 +22,9 @@ var myVal = realVal;
 var myLang = "Javascript";
 
 // Concatinating variables
+var conVar = myLang + realVal;
+var anotherConVar = myVal + realVal;
+console.log(conVar);
+
+//camelCase is a good practice while declaring variables.
+var camelCase = "This is a camel case variable.";
